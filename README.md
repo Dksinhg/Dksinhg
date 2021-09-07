@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Dksinhg
+- 👋 Hi, I’m Dinesh kumar singh
 - 👀 I’m interested in reading books, watching movies. 
 - 🌱 I’m currently learning front web developer. 
 - 💞️ I’m looking to collaborate on web development projects. 
-- 📫 How to reach me ...
+- 📫 How to reach me coding. 
 
 <!---
 Dksinhg/Dksinhg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
